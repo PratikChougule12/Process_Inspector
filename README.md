@@ -43,7 +43,7 @@ You will be prompted to enter the PID of the process to inspect:
 
 ```
 --------------------------------------------------------------
----------------- Marvellous Process Inspector ----------------
+--------------------- Process Inspector ----------------------
 --------------------------------------------------------------
 Enter the pid of process that you want to inspect:
 1234
