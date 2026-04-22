@@ -136,7 +136,7 @@ int main()
     int pid = 0;
 
     printf("--------------------------------------------------------------\n");
-    printf("---------------- Marvellous Process Inspector ----------------\n");
+    printf("--------------------- Process Inspector ----------------------\n");
     printf("--------------------------------------------------------------\n");
 
     printf("Enter the pid of process that you want to inspect:\n");
