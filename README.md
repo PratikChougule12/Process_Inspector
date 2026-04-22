@@ -1,4 +1,4 @@
-# 🔍 Marvellous Process Inspector
+# 🔍 Process Inspector
 
 A lightweight Linux command-line tool written in C that inspects any running process by reading directly from the `/proc` virtual filesystem. Given a PID, it displays process metadata and a categorized, human-readable memory layout map.
 
